@@ -1,0 +1,20 @@
+TEMA 1 SD
+
+Programul incepe printr-o bucla infinita care citeste continuu instructiuni in 
+buffer pana la intalnirea sirului de caractere "delete fs". Fiecare cerinta 
+are cate o functie principala, reprezentata de numele functiei pe care 
+trebuia sa o implementez (in afara de create fs care are functia 
+initializarefs si delete fs care are functia stergerefs).
+
+In afara de cazurile in care trebuie apelat "create fs" sau "delete fs", 
+restul de siruri de caractere din buffer intra intr-o functie care 
+analizeaza primul cuvant din buffer si apeleaza functia ceruta. 
+Functiile pentru fiecare cerinta au fost explicate direct pe cod. 
+Ordinea este: explicarea unei/unor instructiuni si executarea acestora.
+
+
+
+Bibliografie:
+    -crearea de lista ordonata dublu inlantuita: https://www.geeksforgeeks.org/insert-value-sorted-way-sorted-doubly-linked-list/
+    -stergerea unui nod dintr-o lista dublu inlantuita: https://www.geeksforgeeks.org/delete-a-node-in-a-doubly-linked-list/
+    -restul: cunostinte din liceu; incercare si esec/reusita
